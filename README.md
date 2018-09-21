@@ -1,6 +1,6 @@
 # Table-Extension-System-for-MSc-Dissertation
 
-This table extension system is a Java Play Webservice which provides functions for table extension and repository management. 
+This table extension system is a Java Play Webservice which provides functions for table extension and repository management. <br>
 For further about the system, please look at :
 <ul>
   <li><a href="http://web.informatik.uni-mannheim.de/ds4dm/API-definition.html">The Details on the REST-API-calls used for executing the different functions</a>
