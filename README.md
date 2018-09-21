@@ -1,6 +1,14 @@
-# DS4DM-Backend
+# Table-Extension-System-for-MSc-Dissertation
 
-The DS4DM-Backend is a webservice which works in conjunction with the <a href="https://community.rapidminer.com/t5/Community-Blog/The-Data-Search-for-Data-Mining-Extension-Release/ba-p/38231">Data Search for Data Mining (DS4DM) RapidMiner Extension</a>. The memory-intensive and processing-intensive functionalities of the DS4DM RapidMiner Extension have been outsourced to the DS4DM Backend. This includes various Data Searches, Data pre-processing functions, Data Repository management functions,... - for more informatioin, please refer to the <a href="http://web.informatik.uni-mannheim.de/ds4dm/">website of the DSDM Backend</a>.<br>
+This table extension system is a Java Play Webservice which provides functions for table extension and repository management. 
+For further about the system, please look at :
+<ul>
+  <li><a href="http://web.informatik.uni-mannheim.de/ds4dm/API-definition.html">The Details on the REST-API-calls used for executing the different functions</a>
+  <li><a href="http://web.informatik.uni-mannheim.de/ds4dm/">An overview of the algorithms and their evaluations</a>
+  <li><a href="http://web.informatik.uni-mannheim.de/ds4dm/Javadoc/index.html">Detailed documentation (JavaDoc) of the individual classes in the code</a>
+  <li><a href="https://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/KleppmannBizer-DensityAndCorrelationBasedTableExtension-LWDA2018.pdf">A paper describing the unconstrained- and correlation-based- table extension</a>.
+</ul>	
+<br>
 <br>
 
 
