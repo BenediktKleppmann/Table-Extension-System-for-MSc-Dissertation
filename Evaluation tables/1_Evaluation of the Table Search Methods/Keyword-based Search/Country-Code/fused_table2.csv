@@ -1,0 +1,200 @@
+country;code;newCol
+afghanistan;af;4.0
+albania;al;8.0
+algeria;dz;12.0
+andorra;ad;978.0
+angola;ao;24.0
+antigua barbuda;ag;
+argentina;ar;32.0
+armenia;am;51.0
+australia;aud;36.0
+austria;aut;978.0
+azerbaijan;az;31.0
+bahamas;bs;44.0
+bahrain;bh;48.0
+bangladesh;bd;50.0
+barbados;bb;52.0
+belarus;blr;974.0
+belgium;bel;978.0
+belize;bz;84.0
+benin;bj;952.0
+bhutan;bt;64.0
+bolivia;bo;bol
+bosnia herzegovina;ba;
+botswana;bw;72.0
+brazil;br;986.0
+brunei;bru;
+bulgaria;bg;100.0
+burkina faso;bf;952.0
+burma;bu;
+burundi;bi;108.0
+cambodia;kh;116.0
+cameroon;cm;950.0
+canada;ca;124.0
+cape verde;cv;132.0
+central african republic;cf;950.0
+chad;td;950.0
+chile;cl;152.0
+china;cn;156.0
+colombia;co;170.0
+comoros;km;174.0
+costa rica;cr;188.0
+croatia;hr;191.0
+cuba;cu;192.0
+cyprus;cy;196.0
+czech republic;cz;203.0
+democratic republic congo;democratic republic congo african country;
+djibouti;dj;262.0
+dominica;dm;951.0
+dominican republic;do;214.0
+east timor;tp;840.0
+ecuador;ec;840.0
+egypt;eg;818.0
+el salvador;sv;222.0
+equatorial guinea;gq;950.0
+eritrea;er;232.0
+estonia;ee;233.0
+ethiopia;et;230.0
+federated states micronesia;micronesia;
+fiji;fj;242.0
+finland;fi;978.0
+france;fr;978.0
+gabon;ga;950.0
+gambia;gm;270.0
+georgia;ge;981.0
+germany;de;978.0
+ghana;gh;288.0
+greece;gr;978.0
+grenada;gd;951.0
+guatemala;gt;320.0
+guinea;gn;324.0
+guinea bissau;gw;
+guyana;gy;328.0
+haiti;ht;332.0
+honduras;hn;340.0
+hungary;hu;348.0
+iceland;isl;352.0
+india;ind;356.0
+indonesia;id;360.0
+iran;ir;irn
+iraq;iq;368.0
+israel;il;376.0
+italy;ita;978.0
+ivory coast;http www w 3 org 2002 07 owl class http umbel org umbel ref concept http umbel org umbel rc african country http www w 3 org 2002 07 owl named individual;
+jamaica;jm;388.0
+japan;jp;392.0
+jordan;jo;400.0
+kazakhstan;kz;398.0
+kenya;ke;404.0
+kiribati;ki;36.0
+kosovo;kv;
+kuwait;kw;414.0
+kyrgyzstan;kg;417.0
+laos;lao;
+latvia;lv;lva
+lebanon;lb;lbn
+lesotho;ls;lso
+liberia;lr;430.0
+libya;ly;
+liechtenstein;li;756.0
+lithuania;lt;ltu
+luxembourg;lu;lux
+macedonia;mkd;mkd
+madagascar;mg;mdg
+malawi;mw;mwi
+malaysia;my;mys
+maldives;mv;mdv
+mali;ml;952.0
+malta;mt;mlt
+marshall islands;mh;840.0
+mauritania;mr;mrt
+mauritius;mu;mus
+mexico;mx;mex
+moldova;md;mda
+monaco;mc;250.0
+mongolia;mn;mng
+montenegro;me;
+morocco;ma;mar
+mozambique;mz;moz
+namibia;na;nam
+nauru;nr;36.0
+nepal;np;npl
+netherlands;nl;nld
+new zealand;nz;nzl
+nicaragua;ni;nic
+niger;ne;952.0
+nigeria;ng;nga
+niue;nu;554.0
+north korea;prk;
+northern cyprus;http www w 3 org 2002 07 owl class http umbel org umbel ref concept http umbel org umbel rc protectorate http umbel org umbel rc republic http www w 3 org 2002 07 owl named individual;
+norway;nor;nor
+pakistan;pk;pak
+palau;pw;840.0
+palestine;ps;
+panama;pa;pan
+papua new guinea;pg;png
+paraguay;py;pry
+peru;pe;per
+philippines;ph;phl
+poland;pl;pol
+portugal;pt;prt
+qatar;qa;qat
+republic congo;republic congo peoples republic african country republic;
+romania;ro;rou
+russia;rus;
+rwanda;rw;rwa
+sahrawi arab democratic republic;telephone numbers western sahara;
+saint kitts nevis;kn;
+saint lucia;lc;951.0
+saint vincent grenadines;vc;
+samoa;ws;wsm
+san marino;sm;380.0
+saudi arabia;sa;sau
+senegal;sn;952.0
+serbia;rs;srb
+seychelles;sc;syc
+sierra leone;sl;sle
+singapore;sgd;sgp
+slovakia;sk;svk
+slovenia;si;svn
+solomon islands;sb;slb
+somalia;so;706.0
+somaliland;http www w 3 org 2002 07 owl class http umbel org umbel ref concept http umbel org umbel rc country http umbel org umbel rc republic http www w 3 org 2002 07 owl named individual;
+south africa;za;zaf
+south korea;kor;
+south ossetia;http www geonames org ontology admd;
+south sudan;ss;
+spain;es;esp
+sri lanka;lk;lka
+sudan;sd;sdn
+suriname;sr;740.0
+swaziland;sz;swz
+sweden;se;swe
+switzerland;ch;che
+syria;syr;
+taiwan;tw;
+tajikistan;tj;972.0
+tanzania;tz;tza
+thailand;th;tha
+togo;tg;952.0
+tonga;ton;ton
+transnistria;md;
+trinidad tobago;tt;
+tunisia;tn;tun
+turkey;tr;tur
+turkmenistan;tm;795.0
+tuvalu;tv;36.0
+uganda;ug;uga
+ukraine;ua;ukr
+united arab emirates;ae;are
+united kingdom;gb;gbr
+united states;us;usa
+uruguay;uy;ury
+uzbekistan;uz;uzb
+vanuatu;vu;vut
+vatican city;vat;
+venezuela;ve;ven
+vietnam;vn;704.0
+yemen;ye;yem
+zambia;zm;zmb
+zimbabwe;zw;zwe

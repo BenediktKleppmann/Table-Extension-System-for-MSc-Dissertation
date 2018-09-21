@@ -1,0 +1,14 @@
+Apr 25, 2017 3:40:09 PM de.mannheim.uni.index.ParallelIndexer processListOfTables
+INFORMATION: TOTAL DOCUMENTS TO INDEX :2
+Apr 25, 2017 3:41:13 PM de.mannheim.uni.index.ParallelIndexer processListOfTables
+INFORMATION: Indexing 1 table
+Apr 25, 2017 3:41:16 PM de.mannheim.uni.index.IndexFileThread indexListOfJsonTables
+INFORMATION: Tables to index:1
+Apr 25, 2017 3:41:16 PM de.mannheim.uni.index.IndexFileThread indexListOfJsonTables
+INFORMATION: Reading table:C:\Users\UNI-Mannheim\Documents\Test Scripts\24-04-2017 index csv-files\tables_to_index\Country-Area.csv.gz
+Apr 25, 2017 3:41:16 PM de.mannheim.uni.IO.ConvertFileToTable readTable
+INFORMATION: Start to read table C:\Users\UNI-Mannheim\Documents\Test Scripts\24-04-2017 index csv-files\tables_to_index\Country-Area.csv.gz
+Apr 25, 2017 3:41:16 PM de.mannheim.uni.IO.ConvertFileToTable readTable
+INFORMATION: C:\Users\UNI-Mannheim\Documents\Test Scripts\24-04-2017 index csv-files\tables_to_index\Country-Area.csv.gz is not a valid table!!!!
+Apr 25, 2017 3:41:16 PM de.mannheim.uni.index.IndexFileThread indexListOfJsonTables
+INFORMATION: NULL table:C:\Users\UNI-Mannheim\Documents\Test Scripts\24-04-2017 index csv-files\tables_to_index\Country-Area.csv.gz

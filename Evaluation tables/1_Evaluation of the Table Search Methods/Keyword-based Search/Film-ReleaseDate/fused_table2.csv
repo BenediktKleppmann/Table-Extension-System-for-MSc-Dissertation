@@ -1,0 +1,301 @@
+film;release date;newCol
+fight club;1999;2002-01-03T00:00:00.000+01:00
+american beauty;1999;2002-03-15T00:00:00.000+01:00
+goodfellas;1990;
+the graduate;1967;
+saving private ryan;1998;
+forrest gump;1994;
+annie hall;1977;
+blade runner;1982;
+monty python and the holy grail;1975;
+the princess bride;1987;
+taxi driver;1976;2002-02-05T00:00:00.000+01:00
+the matrix;1999;
+groundhog day;1993;
+12 angry men;1957;2008-10-07T00:00:00.000+02:00
+memento;2000;
+casablanca;1943;
+the godfather;1972;
+the shining;1980;
+heat;1995;2002-03-11T00:00:00.000+01:00
+pulp fiction;1994;
+schindler's list;1993;
+black hawk down;2001;2002-02-01T00:00:00.000+01:00
+north by northwest;1959;
+casino royale;2006;
+spartacus;1960;
+full metal jacket;1987;
+midnight cowboy;1969;
+blazing saddles;1974;
+citizen kane;1941;
+amadeus;1984;2002-03-24T00:00:00.000+01:00
+children of men;2006;
+toy story;1995;
+gladiator;2000;
+this is spinal tap;1984;
+his girl friday;1940;2002-04-22T00:00:00.000+02:00
+office space;1999;
+king kong;2005;
+the producers;2005;
+super troopers;2001;2002-02-19T00:00:00.000+01:00
+donnie darko;2001;
+back to the future;1985;
+the lord of the rings: the two towers;2002;
+the manchurian candidate;2004;
+the lord of the rings: the return of the king;2003;
+the lord of the rings: the fellowship of the ring;2001;
+rushmore;1998;2002-01-30T00:00:00.000+01:00
+apollo 13;1995;
+reservoir dogs;1992;
+dr. strangelove or: how i learned to stop worrying and love the bomb;1964;
+fargo;1996;
+m*a*s*h;1970;2002-03-16T00:00:00.000+01:00
+a clockwork orange;1971;
+the big lebowski;1998;
+eternal sunshine of the spotless mind;2004;
+braveheart;1995;
+brazil;1985;july 2005 est.
+gran torino;2008;2009-06-15T00:00:00.000+02:00
+planet of the apes;1968;
+avatar;2009;2009-12-19T00:00:00.000+01:00
+toy story 2;1999;
+v for vendetta;2006;
+ben-hur;1959;
+the departed;2007;
+batman begins;2005;
+unforgiven;1992;
+the bridge on the river kwai;1957;
+being john malkovich;1999;
+spider-man;2002;
+pi;1998;2002-01-01T00:00:00.000+01:00
+high noon;1952;
+manhattan;1979;
+se7en;1995;2002-04-10T00:00:00.000+02:00
+good will hunting;1997;
+nashville;1975;
+the searchers;1956;
+modern times;1936;
+finding nemo;2003;
+das boot;1981;2002-02-25T00:00:00.000+01:00
+the rules of the game;1939;
+ferris bueller's day off;1986;
+network;1976;
+the lion king;1994;
+the godfather: part ii;1974;
+the lives of others;2006;
+shakespeare in love;1999;
+shrek;2001;
+the night of the hunter;1955;
+edward scissorhands;1990;
+e.t. the extra-terrestrial;1982;
+ed wood;1994;
+the seven samurai;1954;
+dances with wolves;1990;
+the shawshank redemption;1994;
+the silence of the lambs;1991;
+to kill a mockingbird;1962;
+gone with the wind;1939;
+titanic;1997;
+the gold rush;1925;
+some like it hot;1959;
+glengarry glen ross;1992;2009-08-23T00:00:00.000+02:00
+the good, the bad and the ugly;1966;
+the best years of our lives;1946;
+chinatown;1974;
+city lights;1931;
+clerks.;1994;
+slumdog millionaire;2008;2009-01-01T00:00:00.000+01:00
+the treasure of the sierra madre;1948;
+minority report;2002;
+crouching tiger, hidden dragon;2000;
+indiana jones and the last crusade;1989;
+easy rider;1969;2002-03-22T00:00:00.000+01:00
+raiders of the lost ark;1981;
+am?lie;2001;
+lost in translation;2003;
+lawrence of arabia;1962;
+raising arizona;1987;
+2001: a space odyssey;1968;
+a christmas story;1983;
+the apartment;1960;
+sullivan's travels;1941;
+jurassic park;1993;
+l.a. confidential;1997;
+apocalypse now;1979;
+raging bull;1980;
+requiem for a dream;2000;
+it happened one night;1934;
+west side story;1961;
+american graffiti;1973;
+american history x;1998;
+it's a wonderful life;1946;
+la dolce vita;1960;
+the african queen;1951;
+glory;1989;
+the road warrior;1981;
+the general;1926;
+alien;1979;
+on the waterfront;1954;
+terminator 2: judgment day;1991;
+casino;1995;
+three kings;1999;
+airplane!;1980;
+wall-e;2008;2008-06-28T00:00:00.000+02:00
+aguirre: the wrath of god;1972;
+juno;2007;
+all quiet on the western front;1930;
+state of play;2009;2009-11-11T00:00:00.000+01:00
+once upon a time in the west;1968;
+deliverance;1972;
+tootsie;1982;
+breakfast at tiffany's;1961;
+sunset blvd.;1950;
+breathless;1960;
+jerry maguire;1996;
+the 400 blows;1959;
+punch-drunk love;2002;
+brief encounter;1945;
+tokyo story;1953;
+bringing up baby;1938;
+thank you for smoking;2006;
+knocked up;2007;
+all about eve;1950;
+fear and loathing in las vegas;1998;
+quantum of solace;2008;2009-03-21T00:00:00.000+01:00
+one flew over the cuckoo's nest;1975;
+one flew over the cuckoo's nest;1975;
+goldfinger;1964;
+butch cassidy and the sundance kid;1969;
+dead poets society;1989;
+ghostbusters;1984;
+chasing amy;1997;
+rash?mon;1950;
+singin' in the rain;1952;
+close encounters of the third kind;1977;
+the seventh seal;1957;
+rain man;1988;
+a streetcar named desire;1951;
+the hurt locker;2009;2009-12-22T00:00:00.000+01:00
+the third man;1949;
+dan in real life;2007;
+frankenstein;1931;
+the incredibles;2004;
+wild strawberries;1957;
+forgetting sarah marshall;2008;2008-04-18T00:00:00.000+02:00
+stranger than fiction;2006;
+the insider;1999;
+seven;1995;
+no country for old men;2007;
+the sting;1973;
+crash;2005;
+the sixth sense;1999;
+willy wonka & the chocolate factory;1971;
+a hard day's night;1964;
+sin city;2005;
+the grand illusion;1937;
+the usual suspects;1995;
+the grapes of wrath;1940;
+solaris;1972;
+bowling for columbine;2002;
+dazed and confused;1993;
+there will be blood;2007;
+the king's speech;2010;
+life of brian;1979;
+children of paradise;1945;
+the great escape;1963;
+the wizard of oz;1939;
+the green mile;1999;
+cinema paradiso;1988;
+when harry met sally?;1989;
+gandhi;1982;
+city of god;2002;
+the hangover;2009;2009-07-02T00:00:00.000+02:00
+who framed roger rabbit;1988;
+talladega nights: the ballad of ricky bobby;2006;
+a few good men;1992;
+the social network;2010;2010-10-20T00:00:00.000+02:00
+the sound of music;1965;
+the fugitive;1993;
+up;2009;2009-05-29T00:00:00.000+02:00
+pretty woman;1990;
+pirates of the caribbean: the curse of the black pearl;2003;
+stand by me;1986;
+the breakfast club;1985;
+young frankenstein;1974;
+return of the jedi;1983;
+unbreakable;2000;2002-01-24T00:00:00.000+01:00
+animal house;1978;
+doubt;2008;2009-04-17T00:00:00.000+02:00
+the french connection;1971;2011-12-23T00:00:00.000+01:00
+the philadelphia story;1940;
+persona;1966;
+high fidelity;2000;
+big fish;2003;
+the conversation;1974;
+spirited away;2001;
+the pianist;2002;
+barry lyndon;1975;2002-04-06T00:00:00.000+02:00
+up in the air;2009;2009-12-26T00:00:00.000+01:00
+jfk;1991;
+iron man;2008;2008-02-05T00:00:00.000+01:00
+the battleship potemkin;1925;
+the bicycle thief;1948;
+sunrise;1927;
+inglourious basterds;2009;2010-01-23T00:00:00.000+01:00
+indiana jones and the temple of doom;1984;
+independence day;1996;
+austin powers: international man of mystery;1997;2002-02-24T00:00:00.000+01:00
+vertigo;1958;
+election;1999;
+rosemary's baby;1968;
+platoon;1986;
+babe;1995;
+armageddon;1998;
+mr. smith goes to washington;1939;
+duck soup;1933;
+the blues brothers;1980;
+star wars;1977;
+eyes wide shut;1999;
+hot fuzz;2007;
+yojimbo;1961;
+rear window;1954;
+paths of glory;1957;
+the empire strikes back;1980;
+superman;1978;
+district 9;2009;2009-09-02T00:00:00.000+02:00
+patton;1970;
+psycho;1960;
+do the right thing;1989;
+bonnie and clyde;1967;
+jaws;1975;
+american psycho;2000;2010-06-18T00:00:00.000+02:00
+harold and maude;1971;
+rocky;1976;
+hannah and her sisters;1986;
+boogie nights;1997;
+the last of the mohicans;1992;
+the dark knight;2008;2008-07-19T00:00:00.000+02:00
+pan's labyrinth;2006;
+lock, stock and two smoking barrels;1998;
+rebel without a cause;1955;
+the prestige;2006;
+the adventures of robin hood;1938;
+little miss sunshine;2006;
+the deer hunter;1978;
+the devil wears prada;2006;2011-04-26T00:00:00.000+02:00
+8 1/2;1963;
+trainspotting;1996;
+sweeney todd: the demon barber of fleet street;2007;2008-09-17T00:00:00.000+02:00
+enchanted;2007;2008-03-02T00:00:00.000+01:00
+sunshine cleaning;2009;2009-09-04T00:00:00.000+02:00
+kill bill: vol. 2;2004;
+la strada;1954;
+kill bill: vol. 1;2003;
+the invention of lying;2009;2010-01-03T00:00:00.000+01:00
+koyaanisqatsi;1982;
+mulholland dr.;2001;
+the iron giant;1999;
+signs;2002;
+fantasia;1940;
+monsters, inc.;2001;2011-12-08T00:00:00.000+01:00
+the last picture show;1971;

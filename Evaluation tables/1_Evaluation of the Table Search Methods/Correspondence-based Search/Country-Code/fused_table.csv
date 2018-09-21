@@ -1,0 +1,200 @@
+country;code;newCol0;newCol1;newCol2;newCol3;newCol4;newCol5;newCol
+afghanistan;af;4.0;;;;4.0;;4.0
+albania;al;8.0;;;alb;8.0;;8.0
+algeria;dz;12.0;;;dza;12.0;;12.0
+andorra;ad;978.0;;;;724.0;;978.0
+angola;ao;24.0;;;ago;24.0;;24.0
+antigua barbuda;ag;;;;;;;
+argentina;ar;32.0;;;arg;32.0;;32.0
+armenia;am;51.0;;;;51.0;;51.0
+australia;aud;36.0;;;aus;36.0;;36.0
+austria;aut;978.0;;;aut;40.0;;978.0
+azerbaijan;az;31.0;;;aze;31.0;;31.0
+bahamas;bs;44.0;;;bhs;44.0;;44.0
+bahrain;bh;48.0;;;bhr;48.0;;48.0
+bangladesh;bd;50.0;;;bgd;50.0;;50.0
+barbados;bb;52.0;;;brb;52.0;;52.0
+belarus;blr;974.0;;;blr;974.0;;974.0
+belgium;bel;978.0;;;bel;56.0;;978.0
+belize;bz;84.0;;;blz;84.0;;84.0
+benin;bj;952.0;;;;952.0;;952.0
+bhutan;bt;356.0;;;btn;356.0;;356.0
+bolivia;bo;;;;bol;;;bol
+bosnia herzegovina;ba;;;;;;;
+botswana;bw;72.0;;;bwa;72.0;;72.0
+brazil;br;986.0;;;bra;986.0;;986.0
+brunei;bru;;;;;;;
+bulgaria;bg;100.0;;;bgr;100.0;;100.0
+burkina faso;bf;952.0;;;;952.0;;952.0
+burma;bu;;;;;;;
+burundi;bi;108.0;;;bdi;108.0;;108.0
+cambodia;kh;;116.0;;;116.0;;116.0
+cameroon;cm;;950.0;;;950.0;;950.0
+canada;ca;;124.0;;can;124.0;;124.0
+cape verde;cv;;132.0;;;132.0;;132.0
+central african republic;cf;;950.0;;;950.0;;950.0
+chad;td;;950.0;;;950.0;;950.0
+chile;cl;;152.0;;chl;152.0;;152.0
+china;cn;;156.0;;chn;156.0;;156.0
+colombia;co;;170.0;;col;170.0;;170.0
+comoros;km;;174.0;;com;174.0;;174.0
+costa rica;cr;;188.0;;cri;188.0;;188.0
+croatia;hr;;191.0;;hrv;191.0;;191.0
+cuba;cu;;192.0;;cub;192.0;;192.0
+cyprus;cy;;196.0;;cyp;196.0;;196.0
+czech republic;cz;;203.0;;cze;203.0;;203.0
+democratic republic congo;democratic republic congo african country;;;;;;;
+djibouti;dj;;262.0;;;262.0;;262.0
+dominica;dm;;951.0;;;951.0;;951.0
+dominican republic;do;;214.0;;dom;214.0;;214.0
+east timor;tp;;840.0;;;626.0;;840.0
+ecuador;ec;;840.0;;ecu;218.0;;840.0
+egypt;eg;;818.0;;egy;818.0;;818.0
+el salvador;sv;;222.0;;slv;222.0;;222.0
+equatorial guinea;gq;;950.0;;;950.0;;950.0
+eritrea;er;;232.0;;;232.0;;232.0
+estonia;ee;;233.0;;est;233.0;;233.0
+ethiopia;et;;230.0;;eth;230.0;;230.0
+federated states micronesia;micronesia;;;;;;;
+fiji;fj;;242.0;;fji;242.0;;242.0
+finland;fi;;978.0;;fin;246.0;;978.0
+france;fr;;978.0;;fra;250.0;;978.0
+gabon;ga;;;950.0;;950.0;;950.0
+gambia;gm;;;;;;;
+georgia;ge;;;981.0;geo;981.0;;981.0
+germany;de;;;978.0;deu;276.0;;978.0
+ghana;gh;;;288.0;gha;288.0;;288.0
+greece;gr;;;978.0;grc;300.0;;978.0
+grenada;gd;;;951.0;;951.0;;951.0
+guatemala;gt;;;320.0;gtm;320.0;;320.0
+guinea;gn;;;324.0;gin;324.0;;324.0
+guinea bissau;gw;;;952.0;;624.0;;952.0
+guyana;gy;;;328.0;;328.0;;328.0
+haiti;ht;;;332.0;hti;332.0;;332.0
+honduras;hn;;;340.0;hnd;340.0;;340.0
+hungary;hu;;;348.0;hun;348.0;;348.0
+iceland;isl;;;978.0;irl;352.0;;978.0
+india;ind;;;356.0;ind;356.0;;356.0
+indonesia;id;;;360.0;idn;360.0;;360.0
+iran;ir;;;364.0;irn;364.0;;364.0
+iraq;iq;;;368.0;;368.0;;368.0
+israel;il;;;376.0;isr;376.0;;376.0
+italy;ita;;;978.0;ita;380.0;;978.0
+ivory coast;http www w 3 org 2002 07 owl class http umbel org umbel ref concept http umbel org umbel rc african country http www w 3 org 2002 07 owl named individual;;;;;;;
+jamaica;jm;;;388.0;jam;388.0;;388.0
+japan;jp;;;392.0;jpn;392.0;;392.0
+jordan;jo;;;400.0;jor;400.0;;400.0
+kazakhstan;kz;;;398.0;kaz;398.0;;398.0
+kenya;ke;;;404.0;ken;404.0;;404.0
+kiribati;ki;;;36.0;;36.0;;36.0
+kosovo;kv;;;;;;;
+kuwait;kw;;;414.0;kwt;414.0;;414.0
+kyrgyzstan;kg;;;417.0;kgz;417.0;;417.0
+laos;lao;;;;;;;
+latvia;lv;;;;lva;428.0;428.0;lva
+lebanon;lb;;;;lbn;422.0;422.0;lbn
+lesotho;ls;;;;lso;710.0;710.0;lso
+liberia;lr;;;;;430.0;430.0;430.0
+libya;ly;;;;;;;
+liechtenstein;li;;;;;756.0;756.0;756.0
+lithuania;lt;;;;ltu;440.0;440.0;ltu
+luxembourg;lu;;;;lux;442.0;978.0;lux
+macedonia;mkd;;;;mkd;;;mkd
+madagascar;mg;;;;mdg;450.0;450.0;mdg
+malawi;mw;;;;mwi;454.0;454.0;mwi
+malaysia;my;;;;mys;458.0;458.0;mys
+maldives;mv;;;;mdv;462.0;462.0;mdv
+mali;ml;;;;;952.0;952.0;952.0
+malta;mt;;;;mlt;470.0;470.0;mlt
+marshall islands;mh;;;;;840.0;840.0;840.0
+mauritania;mr;;;;mrt;478.0;478.0;mrt
+mauritius;mu;;;;mus;480.0;480.0;mus
+mexico;mx;;;;mex;484.0;484.0;mex
+moldova;md;;;;mda;;;mda
+monaco;mc;;;;;250.0;978.0;250.0
+mongolia;mn;;;;mng;496.0;496.0;mng
+montenegro;me;;;;;;;
+morocco;ma;;;;mar;504.0;504.0;mar
+mozambique;mz;;;;moz;508.0;508.0;moz
+namibia;na;;;;nam;710.0;710.0;nam
+nauru;nr;;;;;36.0;36.0;36.0
+nepal;np;;;;npl;524.0;524.0;npl
+netherlands;nl;;;;nld;528.0;978.0;nld
+new zealand;nz;;;;nzl;554.0;554.0;nzl
+nicaragua;ni;;;;nic;558.0;558.0;nic
+niger;ne;;;;;952.0;952.0;952.0
+nigeria;ng;;;;nga;566.0;566.0;nga
+niue;nu;;;;;554.0;554.0;554.0
+north korea;prk;;;;;;;
+northern cyprus;http www w 3 org 2002 07 owl class http umbel org umbel ref concept http umbel org umbel rc protectorate http umbel org umbel rc republic http www w 3 org 2002 07 owl named individual;;;;;;;
+norway;nor;;;;nor;578.0;578.0;nor
+pakistan;pk;;;;pak;586.0;;pak
+palau;pw;;;;;840.0;;840.0
+palestine;ps;;;;;;;
+panama;pa;;;;pan;590.0;;pan
+papua new guinea;pg;;;;png;598.0;;png
+paraguay;py;;;;pry;600.0;;pry
+peru;pe;;;;per;604.0;;per
+philippines;ph;;;;phl;608.0;;phl
+poland;pl;;;;pol;985.0;;pol
+portugal;pt;;;;prt;620.0;;prt
+qatar;qa;;;;qat;634.0;;qat
+republic congo;republic congo peoples republic african country republic;;;;;;;
+romania;ro;;;;rou;642.0;;rou
+russia;rus;;;;;;;
+rwanda;rw;;;;rwa;646.0;;rwa
+sahrawi arab democratic republic;telephone numbers western sahara;;;;;;;
+saint kitts nevis;kn;;;;;;;
+saint lucia;lc;;;;;951.0;;951.0
+saint vincent grenadines;vc;;;;;;;
+samoa;ws;;;;wsm;882.0;;wsm
+san marino;sm;;;;;380.0;;380.0
+saudi arabia;sa;;;;sau;682.0;;sau
+senegal;sn;;;;;952.0;;952.0
+serbia;rs;;;;srb;;;srb
+seychelles;sc;;;;syc;690.0;;syc
+sierra leone;sl;;;;sle;694.0;;sle
+singapore;sgd;;;;sgp;702.0;;sgp
+slovakia;sk;;;;svk;703.0;;svk
+slovenia;si;;;;svn;705.0;;svn
+solomon islands;sb;;;;slb;90.0;;slb
+somalia;so;;;;;706.0;;706.0
+somaliland;http www w 3 org 2002 07 owl class http umbel org umbel ref concept http umbel org umbel rc country http umbel org umbel rc republic http www w 3 org 2002 07 owl named individual;;;;;;;
+south africa;za;;;;zaf;710.0;;zaf
+south korea;kor;;;;;;;
+south ossetia;http www geonames org ontology admd;;;;;;;
+south sudan;ss;;;;;;;
+spain;es;;;;esp;724.0;;esp
+sri lanka;lk;;;;lka;144.0;;lka
+sudan;sd;;;;sdn;736.0;;sdn
+suriname;sr;;;;sur;740.0;;sur
+swaziland;sz;;;;swz;748.0;;swz
+sweden;se;;;;swe;752.0;;swe
+switzerland;ch;;;;che;756.0;;che
+syria;syr;;;;;;;
+taiwan;tw;;;;;;;
+tajikistan;tj;;;;;972.0;;972.0
+tanzania;tz;;;;tza;;;tza
+thailand;th;;;;tha;764.0;;tha
+togo;tg;;;;;952.0;;952.0
+tonga;ton;;;;ton;776.0;;ton
+transnistria;md;;;;;;;
+trinidad tobago;tt;;;;;;;
+tunisia;tn;;;;tun;788.0;;tun
+turkey;tr;;;;tur;792.0;;tur
+turkmenistan;tm;;;;;795.0;;795.0
+tuvalu;tv;;;;;36.0;;36.0
+uganda;ug;;;;uga;800.0;;uga
+ukraine;ua;;;;ukr;980.0;;ukr
+united arab emirates;ae;;;;are;784.0;;are
+united kingdom;gb;;;;gbr;826.0;;gbr
+united states;us;;;;usa;840.0;;usa
+uruguay;uy;;;;ury;858.0;;ury
+uzbekistan;uz;;;;uzb;860.0;;uzb
+vanuatu;vu;;;;vut;548.0;;vut
+vatican city;vat;;;;;;;
+venezuela;ve;;;;ven;862.0;;ven
+vietnam;vn;;;;;704.0;;704.0
+yemen;ye;;;;yem;;;yem
+zambia;zm;;;270.0;zmb;270.0;;270.0
+zimbabwe;zw;;;;zwe;;;zwe

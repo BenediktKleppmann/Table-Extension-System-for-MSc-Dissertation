@@ -1,0 +1,48 @@
+company;industry;newCol0;newCol1;newCol2;newCol3;newCol4;newCol5;newCol6;newCol7;newCol8;newCol9;newCol10;newCol11;newCol12;newCol13;newCol14;newCol15;newCol16;newCol
+general electric;conglomerate;;diversified industrials;conglomerates;diversified financials;;conglomerates;;;;conglomerate;;conglomerates;conglomerates;conglomerate;electronics;energy;;diversified industrials
+toyota motor;automotive;;;consumer durables;motor vehicles and parts;;consumer durables;;;;;;;;;;;;consumer durables
+procter gamble;consumer goods;;non-durable household products;household & personal products;;;household & personal products;;;;;;household & personal products;household;non-durable household products;soaps and cosmetics;;;non-durable household products
+fedex;retail;;;;;;;parcel delivery service;retail;;;;;;;;;;parcel delivery service
+johnson johnson;health care;;pharmaceuticals;drugs & biotechnology;;pharmaceuticals;drugs & biotechnology;;;;;;drugs & biotechnology;;pharmaceuticals;;pharmaceuticals;;pharmaceuticals
+microsoft;software;;software;software & services;;;software & services;;software;;;software (desktop);software & services;software;software;;;;software
+dell;technology;;;;;;;computer maker;technology;computer hardware;;;;;;;;computer maker;computer maker
+berkshire hathaway;conglomerate;;;diversified financials;insurance: property and casualty (stock);;diversified financials;;;;diversified financials;;diversified financials;finance;;insurance: property and casualty;;;diversified financials
+wal mart stores;retailing;;;retailing;general merchandisers;broadline retailers;retailing;;;;;;retailing;;;general merchandisers;;;retailing
+ibm;software;;computer services;;;;software & services;;software;;;;software & services;software;computer services;information technology services;;;computer services
+target;retail;;;;;;;retailer;retail;;;;;retailing;;;;retailer;retailer
+bmw;cars;;;;;;;auto dealer;cars;;;;;;;motor vehicles;;;auto dealer
+pepsi co;beverage;;;;;;;;;;;;;;;;;;
+united parcel service;transportation logistics truck transportation;;;;;;;;;;;;;;;;;;
+intel;technology;;semiconductors;;;;semiconductors;;technology;;;electronic (semicndtr mfg);;semiconductors;semiconductors;semiconductors;;;semiconductors
+home depot;retail;retail stores;home improvement retailers;;;;;retailer;retail;;;;;retailing;;;;retailer;retail stores
+nokia;technology;;;;;;technology hardware & equip;;technology;;;;;;;;telecommunications;;technology hardware & equip
+costco wholesale;merchandise warehouse;wholesale general products;;;;;;;;;;;;;;specialty retailers;;;wholesale general products
+coca cola;beverages;;beverages;;;;;;f&d&t;;;;;;beverages;beverages;;;beverages
+singapore airlines;airlines;;;;;;;;;;;;;;;airlines;;;airlines
+bank america;banking;;;;;;;;;;;;;;;;;;
+citigroup;banking;;banking;;banks: commercial and savings;;banking;credit card issuer;;;banking;;;banking;banking;;banking and finance;credit card issuer;banking
+cisco systems;technology hardware equip;;;;;;technology hardware & equip;;;;;computer (networks);technology hardware & equip;;;network and other communications equipment;;;technology hardware & equip
+bp;oil gas;;;oil & gas operations;petroleum refining;;oil & gas operations;;oil & gas;;oil and gas;;oil & gas operations;;;;;;oil & gas operations
+samsung electronics;semiconductors;;;;;;semiconductors;;;;;;semiconductors;;;;;;semiconductors
+exxon mobil;oil gas;;;;petroleum refining;;;;;;;;;;;petroleum refining;;;petroleum refining
+l al;personal care;;;;;;;;;;;;;;;;;;
+nestl;food processing;;;food drink & tobacco;;;food drink & tobacco;;;;;;food, drink & tobacco;;;consumer food products;;;food drink & tobacco
+pfizer;pharmaceuticals;;pharmaceuticals;;;;drugs & biotechnology;;personal care;;;;drugs & biotechnology;pharmaceuticals;pharmaceuticals;;;;pharmaceuticals
+dupont;chemicals;;commodity chemicals;;;;;;;;;;;;commodity chemicals;;;;commodity chemicals
+caterpillar;construction amp agriculture machinery;;commercial vehicles & trucks;;;;;;technology;;;;;capital goods;construction and mining equipment;industrial and farm equipment;;;commercial vehicles & trucks
+walt disney;media;;broadcasting & entertainment;;;;;;;;;;media;media;;entertainment;;;broadcasting & entertainment
+anheuser busch;brewing malt beverages;;;;;;;;;;;;;;;;;;
+sony;technology;;;;;;;computer maker;technology;;;;;;;;media;computer maker;computer maker
+honda motor;consumer durables;;;;;;consumer durables;;;;;;consumer durables;;;;;;consumer durables
+hsbc holdings;banking;;;banking;banks: commercial and savings;;banking;;;;;;banking;;;;;;banking
+canon;technology;;;;;;;;technology;;;;;;;;;;technology
+lowe;retail;;;;;;;;;;;;;;;;;;
+walgreen;retailing;;;;;;;retailer;;;;;;retailing;;;;retailer;retailer
+verizon communications;telecommunications;;telecommunication;;;;telecommunications services;;;;;;telecommunications services;;telecommunication;telecommunications;;;telecommunication
+tesco;retail;;;;;;;;retail;;;;food markets;;;;;;retail
+siemens;technology;;;;;;conglomerates;;technology;;;;conglomerates;;;;;;conglomerates
+basf;chemicals;;;;;;chemicals;;;;;;chemicals;;;chemicals;;;chemicals
+royal bank scotland;banking;;;;;;banking;;;;banking;;;;;;;;banking
+dow chemical;manufacturing;;;;;;;;;;;;;chemicals;;;;;chemicals
+best buy;retailing;;;;;;;retailer;;;;;;retailing;;;;retailer;retailer
+novartis;drugs biotechnology;;;;;;drugs & biotechnology;;;;;;drugs & biotechnology;;;;;;drugs & biotechnology

@@ -1,0 +1,49 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# functions defined by Java Play
+GET     /                           controllers.Application.index()
+GET     /ind                        controllers.ExtendTable.ind()
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+# Get info functions
+GET /getRepositoryNames				controllers.ExtendTable.getRepositoryNames()
+GET /getRepositoryStatistics		controllers.ExtendTable.getRepositoryStatistics(repository)
+POST /suggestAttributes 			controllers.ExtendTable.suggestAttributes()
+
+
+# table search related functions
+POST /old_search 					controllers.ExtendTable.search()
+# POST /search 						controllers.ExtendTable.extendedSearch(repository)
+# POST /search 						controllers.ExtendTable.extendedSearch_Produktdata()
+# POST /search 						controllers.ExtendTable.PreCalculatedSearch()
+POST /unconstrainedSearch 			controllers.ExtendTable.unconstrainedSearch(repository)
+POST /search 						controllers.ExtendTable.extendedSearch_WebWikiTables()
+# POST /extendedSearch 				controllers.ExtendTable.extendedSearch(repository)
+
+POST /correlationBasedSearch        controllers.ExtendTable.correlationBasedSearch(repository)
+
+
+GET /fetchTable  					controllers.ExtendTable.fetchTable_WebWikiTables(name)
+# GET /fetchTable  					controllers.ExtendTable.fetchTable(name, repository)
+
+
+POST /fetchTablePOST  				controllers.ExtendTable.fetchTablePOST(repositoryName)
+
+# Build and maintain repositories
+POST /createRepository				controllers.ExtendTable.createRepository(repository)
+GET /createRepository				controllers.ExtendTable.createRepository(repository)
+POST /uploadTable 					controllers.ExtendTable.uploadTable(repository)
+POST /bulkUploadTables              controllers.ExtendTable.moderateBulkUploadTables(repository)
+POST /generateCorrespondences       controllers.ExtendTable.generateCorrespondences(repository)
+POST /generateCorrespondences_withKnownBlocking       controllers.ExtendTable.generateCorrespondences_withKnownBlocking(repository, blockingsFile)
+POST /deleteRepository				controllers.ExtendTable.deleteRepository(repository)
+
+POST /getUploadStatus   			controllers.ExtendTable.getUploadStatus(repository, uploadID)
+
+
+POST /Test3   						controllers.ExtendTable.test3()
+
